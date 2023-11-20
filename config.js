@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Vei',
+	name: 'Veizlan',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
@@ -71,15 +71,15 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
-		},
-		{
-			id: '5',
 			name: 'AliExpress',
 			icon: 'shopping-cart',
 			link: 'https://aliexpress.com',
+		},
+		{
+			id: '5',
+			name: 'AniWatch',
+			icon: 'tv',
+			link: 'https://aniwatch.to',
 		},
 		{
 			id: '6',
