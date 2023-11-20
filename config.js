@@ -139,15 +139,15 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Lana del Rey',
-					link: 'https://open.spotify.com/playlist/7wzqcChfsny6VfH5eqmXee',
+					name: 'Summoning Salt',
+					link: 'https://piped.video/channel/UCtUbO6rBht0daVIOGML3c8w',
 				},
 				{
 					name: 'The Red Playlist',
 					link: 'https://open.spotify.com/playlist/15buemzmFQKNjbrSF6ohCW',
 				},
 				{
-					name: 'ORGAN BOYS CLUB',
+					name: 'Organ Boys Club',
 					link: 'https://open.spotify.com/album/3Cz0SiZJJCJcLpshwJ71pR',
 				},
 				{
