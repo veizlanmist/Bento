@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Pocket Option',
+			icon: 'bitcoin',
+			link: 'https://pocketoption.com',
 		},
 		{
 			id: '4',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'AliExpress',
+			icon: 'shopping-cart',
+			link: 'https://aliexpress.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Piped',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://piped.video',
 		},
 	],
 
