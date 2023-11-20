@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'hash',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Bluesky',
+					link: 'https://bsky.app',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Fur Affinity',
+					link: 'https://www.furaffinity.net',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Itaku',
+					link: 'https://itaku.ee',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Pinterest',
+					link: 'https://www.pinterest.com',
 				},
 			],
 		},
