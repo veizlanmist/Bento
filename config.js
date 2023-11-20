@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lana del Rey',
+					link: 'https://open.spotify.com/playlist/7wzqcChfsny6VfH5eqmXee',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'The Red Playlist',
+					link: 'https://open.spotify.com/playlist/15buemzmFQKNjbrSF6ohCW',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ORGAN BOYS CLUB',
+					link: 'https://open.spotify.com/album/3Cz0SiZJJCJcLpshwJ71pR',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Study Lo-Fi',
+					link: 'https://open.spotify.com/playlist/3WLDIcG4Cx2UOPy0rbFhQn',
 				},
 			],
 		},
