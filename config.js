@@ -59,33 +59,33 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'PcComponentes.com',
+			icon: 'monitor',
+			link: 'https://www.pccomponentes.com/',
 		},
 		{
 			id: '3',
 			name: 'Pocket Option',
 			icon: 'bitcoin',
-			link: 'https://pocketoption.com',
+			link: 'https://pocketoption.com/',
 		},
 		{
 			id: '4',
 			name: 'AliExpress',
 			icon: 'shopping-cart',
-			link: 'https://aliexpress.com',
+			link: 'https://aliexpress.com/',
 		},
 		{
 			id: '5',
-			name: 'AniWatch',
-			icon: 'tv',
-			link: 'https://aniwatch.to',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://twitch.tv/',
 		},
 		{
-			id: '6',
-			name: 'Piped',
-			icon: 'youtube',
-			link: 'https://piped.video',
+			id: '6', 
+			name: 'AniWatch',
+			icon: 'tv',
+			link: 'https://aniwatch.to/',
 		},
 	],
 
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'popcorn',
 			id: '1',
 			links: [
 				{
 					name: 'Summoning Salt',
-					link: 'https://piped.video/channel/UCtUbO6rBht0daVIOGML3c8w',
+					link: 'https://www.youtube.com/@SummoningSalt/videos',
 				},
 				{
-					name: 'The Red Playlist',
-					link: 'https://open.spotify.com/playlist/15buemzmFQKNjbrSF6ohCW',
+					name: 'The Cursed Judge',
+					link: 'https://www.youtube.com/@TheCursedJudge/videos',
 				},
 				{
-					name: 'Organ Boys Club',
-					link: 'https://open.spotify.com/album/3Cz0SiZJJCJcLpshwJ71pR',
+					name: 'Jacob Geller',
+					link: 'https://www.youtube.com/@JacobGeller/videos',
 				},
 				{
-					name: 'Study Lo-Fi',
-					link: 'https://open.spotify.com/playlist/3WLDIcG4Cx2UOPy0rbFhQn',
+					name: 'LagoVirt',
+					link: 'https://www.youtube.com/@LagoVirt/videos',
 				},
 			],
 		},
