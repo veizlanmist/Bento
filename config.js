@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'PcComponentes.com',
-			icon: 'monitor',
-			link: 'https://www.pccomponentes.com/',
+			name: 'AliExpress',
+			icon: 'shopping-cart',
+			link: 'https://aliexpress.com/',
 		},
 		{
 			id: '3',
@@ -71,21 +71,21 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'AliExpress',
-			icon: 'shopping-cart',
-			link: 'https://aliexpress.com/',
+			name: 'PcComponentes.com',
+			icon: 'monitor',
+			link: 'https://www.pccomponentes.com/',
 		},
 		{
-			id: '5',
-			name: 'AniWatch',
-			icon: 'tv',
-			link: 'https://aniwatch.to/',
-		},
-		{
-			id: '6', 
+			id: '5', 
 			name: 'Twitch',
 			icon: 'twitch',
 			link: 'https://twitch.tv/',
+		},
+		{
+			id: '6',
+			name: 'AniWatch',
+			icon: 'tv',
+			link: 'https://aniwatch.to/',
 		},
 	],
 
