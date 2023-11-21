@@ -36,7 +36,7 @@ const CONFIG = {
 	defaultLongitude: '-16.268',
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
 	changeThemeByOS: true,
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Twitch',
-			icon: 'twitch',
-			link: 'https://twitch.tv/',
-		},
-		{
-			id: '6', 
 			name: 'AniWatch',
 			icon: 'tv',
 			link: 'https://aniwatch.to/',
+		},
+		{
+			id: '6', 
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://twitch.tv/',
 		},
 	],
 
