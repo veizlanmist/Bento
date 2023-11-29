@@ -66,7 +66,8 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Pocket Option',
-			icon: 'align-horizontal-distribute-center',
+			// icon: 'align-horizontal-distribute-center',
+			icon: 'bitcoin',
 			link: 'https://pocketoption.com/',
 		},
 		{
