@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'AniWatch',
+			name: 'HiAnime',
 			icon: 'tv',
-			link: 'https://aniwatch.to/',
+			link: 'https://hianime.to/',
 		},
 	],
 
