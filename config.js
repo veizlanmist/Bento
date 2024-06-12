@@ -143,16 +143,20 @@ const CONFIG = {
 					link: 'https://www.youtube.com/@SummoningSalt/videos',
 				},
 				{
-					name: 'The Cursed Judge',
-					link: 'https://www.youtube.com/@TheCursedJudge/videos',
-				},
-				{
 					name: 'Jacob Geller',
 					link: 'https://www.youtube.com/@JacobGeller/videos',
 				},
 				{
-					name: 'LagoVirt',
-					link: 'https://www.youtube.com/@LagoVirt/videos',
+					name: 'Nexpo',
+					link: 'https://www.youtube.com/@Nexpo/videos',
+				},
+				{
+					name: 'Chad Chad',
+					link: 'https://www.youtube.com/@thechadx2/videos',
+				},
+				{
+					name: 'Nicole Rafiee',
+					link: 'https://www.youtube.com/@NicoleRafiee/videos',
 				},
 			],
 		},
@@ -160,6 +164,10 @@ const CONFIG = {
 			icon: 'hash',
 			id: '2',
 			links: [
+				{
+					name: 'Twitter / X',
+					link: 'https://x.com',
+				},
 				{
 					name: 'Bluesky',
 					link: 'https://bsky.app',
