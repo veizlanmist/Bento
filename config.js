@@ -147,10 +147,6 @@ const CONFIG = {
 					link: 'https://www.youtube.com/@JacobGeller/videos',
 				},
 				{
-					name: 'Nexpo',
-					link: 'https://www.youtube.com/@Nexpo/videos',
-				},
-				{
 					name: 'Chad Chad',
 					link: 'https://www.youtube.com/@thechadx2/videos',
 				},
@@ -175,10 +171,6 @@ const CONFIG = {
 				{
 					name: 'Fur Affinity',
 					link: 'https://www.furaffinity.net',
-				},
-				{
-					name: 'Itaku',
-					link: 'https://itaku.ee',
 				},
 				{
 					name: 'Pinterest',
