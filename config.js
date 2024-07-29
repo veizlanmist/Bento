@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Pocket Option',
-			icon: 'align-horizontal-distribute-center',
-			link: 'https://pocketoption.com/',
+			name: 'yts.mx',
+			icon: 'clapperboard',
+			link: 'https://yts-official.mx/',
 		},
 		{
 			id: '4',
@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'popcorn',
+			icon: 'play',
 			id: '1',
 			links: [
 				{
