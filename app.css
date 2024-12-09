@@ -11,7 +11,7 @@
 :root {
   /* Font Size */
   --fg-primary: 12vh; /* Time and Greetings */
-  --fg-secondary: 3vh; /* Greetings and Weather widger */
+  --fg-secondary: 3vh; /* Greetings and Weather widget */
   --fg-date: 8vh; /* Date */
   --fg-list: 2vh; /* Links List */
   --icon: 3vh; /* Icon Size */
@@ -144,7 +144,6 @@ body {
 }
 
 .weather {
-  margin-top: 5vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -176,7 +175,7 @@ body {
 }
 
 #greetings {
-  margin-top: 5vh;
+  margin-top: 1rem;
   font-size: var(--fg-secondary);
   color: var(--fg);
 }
@@ -316,7 +315,7 @@ body {
   text-decoration: none;
   font-size: var(--fg-list);
   color: var(--fg);
-  margin-top: 1.75vh;
+  margin-top: 1rem;
   padding: 8px 12px;
   border-radius: 5px;
   font-weight: bold;
