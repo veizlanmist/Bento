@@ -6,7 +6,7 @@
 
 /* V A R I A B L E S */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap'); /* Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap'); /* Font Import */
 
 :root {
   /* Font Size */
@@ -17,13 +17,13 @@
   --icon: 3vh; /* Icon Size */
 
   /* Fonts Color */
-  --fg: #3a3a3a; /* Foreground color */
-  --sfg: #57a0d9; /* Sceondary Foreground color */
+  --fg: #191c20; /* Foreground color */
+  --sfg: #001b3e; /* Sceondary Foreground color */
 
   /* Light Colors  */
-  --accent: #d1dae3; /* Hover color */
-  --background: #f5f5f5; /* Background color */
-  --cards: #e4e6e6; /* Cards color */
+  --accent: #d6e3ff; /* Hover color */
+  --background: #f9f9ff; /* Background color */
+  --cards: #ededf4; /* Cards color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
@@ -35,13 +35,13 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #25303f; /* Hover color */
-  --background: #19171a; /* Background color */
-  --cards: #201e21; /* Cards color */
+  --accent: #284777; /* Hover color */
+  --background: #111318; /* Background color */
+  --cards: #1d2024; /* Cards color */
 
   /* Fonts Color */
-  --fg: #d8dee9; /* Foreground color */
-  --sfg: #57a0d9; /* Secondary Foreground color */
+  --fg: #e2e2e9; /* Foreground color */
+  --sfg: #d6e3ff; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
@@ -56,7 +56,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   transition: 0.2s ease-in-out;
 }
 

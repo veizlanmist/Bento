@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Veizlan',
+	name: 'Veizlan.',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
 
 	// Greetings
-	greetingMorning: 'Good morning,',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to sleep,',
+	greetingMorning: 'Rise and shine,',
+	greetingAfternoon: 'Stand strong,',
+	greetingEvening: "Night's calling,",
+	greetingNight: 'Dare to dream,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -60,19 +60,19 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'AliExpress',
-			icon: 'shopping-cart',
+			icon: 'shopping-bag',
 			link: 'https://aliexpress.com/',
 		},
 		{
 			id: '3',
-			name: 'yts.mx',
-			icon: 'clapperboard',
-			link: 'https://yts-official.mx/',
+			name: 'Pinterest',
+			icon: 'images',
+			link: 'https://www.pinterest.com/',
 		},
 		{
 			id: '4',
 			name: 'PcComponentes.com',
-			icon: 'monitor',
+			icon: 'pc-case',
 			link: 'https://www.pccomponentes.com/',
 		},
 		{
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'HiAnime',
-			icon: 'tv',
+			icon: 'tv-minimal',
 			link: 'https://hianime.to/',
 		},
 	],
@@ -135,20 +135,20 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'play',
+			icon: 'headphones',
 			id: '1',
 			links: [
 				{
-					name: 'Summoning Salt',
-					link: 'https://www.youtube.com/@SummoningSalt/videos',
+					name: 'Chad Chad',
+					link: 'https://www.youtube.com/@thechadx2/videos',
 				},
 				{
 					name: 'Jacob Geller',
 					link: 'https://www.youtube.com/@JacobGeller/videos',
 				},
 				{
-					name: 'Chad Chad',
-					link: 'https://www.youtube.com/@thechadx2/videos',
+					name: 'Miniminuteman',
+					link: 'https://www.youtube.com/@miniminuteman773/videos',
 				},
 				{
 					name: 'Nicole Rafiee',
@@ -161,10 +161,6 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Twitter / X',
-					link: 'https://x.com',
-				},
-				{
 					name: 'Bluesky',
 					link: 'https://bsky.app',
 				},
@@ -173,8 +169,12 @@ const CONFIG = {
 					link: 'https://www.furaffinity.net',
 				},
 				{
-					name: 'Pinterest',
-					link: 'https://www.pinterest.com',
+					name: 'Itaku',
+					link: 'https://www.itaku.ee',
+				},
+				{
+					name: 'TikTok',
+					link: 'https://x.com',
 				},
 			],
 		},
