@@ -315,7 +315,7 @@ body {
   text-decoration: none;
   font-size: var(--fg-list);
   color: var(--fg);
-  margin-top: 1rem;
+  margin-top: 1.44vh;
   padding: 8px 12px;
   border-radius: 5px;
   font-weight: bold;
