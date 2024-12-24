@@ -174,7 +174,7 @@ const CONFIG = {
 				},
 				{
 					name: 'TikTok',
-					link: 'https://x.com',
+					link: 'https://www.tiktok.com',
 				},
 			],
 		},
