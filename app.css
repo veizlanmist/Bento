@@ -6,7 +6,14 @@
 
 /* V A R I A B L E S */
 
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap'); /* Font Import */
+/* @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap'); Font Import */
+
+@font-face {
+  font-family: 'Adwaita Sans';
+  src: url('assets/fonts/AdwaitaSans-Regular.ttf') format('truetype');
+  font-weight: 450px;
+  font-style: normal;
+}
 
 :root {
   /* Font Size */
@@ -56,7 +63,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Adwaita Sans', sans-serif;
   transition: 0.2s ease-in-out;
 }
 

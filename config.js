@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Veizlan.',
+	name: 'Veizlan',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: true,
+	twelveHourFormat: false,
 
 	// Greetings
 	greetingMorning: 'Rise and shine,',
-	greetingAfternoon: 'Let\'s make this day sizzle,',
-	greetingEvening: 'Shine through shadows,',
-	greetingNight: 'Stars dance to your tune,',
+	greetingAfternoon: 'Good afternoon,',
+	greetingEvening: 'Good evening,',
+	greetingNight: 'Squeaky dreams,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
