@@ -18,9 +18,9 @@ const CONFIG = {
 
 	// Greetings
 	greetingMorning: 'Rise and shine,',
-	greetingAfternoon: 'Stand strong,',
-	greetingEvening: "Night's calling,",
-	greetingNight: 'Dare to dream,',
+	greetingAfternoon: 'Let\'s make this day sizzle,',
+	greetingEvening: 'Shine through shadows,',
+	greetingNight: 'Stars dance to your tune,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Bluesky',
+			icon: 'cloud',
+			link: 'https://bsky.app',
 		},
 		{
 			id: '2',
-			name: 'AliExpress',
-			icon: 'shopping-bag',
-			link: 'https://aliexpress.com/',
+			name: 'Fur Affinity',
+			icon: 'paw-print',
+			link: 'https://www.furaffinity.net/',
 		},
 		{
 			id: '3',
-			name: 'Pinterest',
-			icon: 'images',
-			link: 'https://www.pinterest.com/',
+			name: 'Le Chat - Mistral AI',
+			icon: 'brain-circuit',
+			link: 'https://chat.mistral.ai/chat',
 		},
 		{
 			id: '4',
-			name: 'PcComponentes.com',
-			icon: 'pc-case',
-			link: 'https://www.pccomponentes.com/',
+			name: 'CDKeys',
+			icon: 'gamepad-2',
+			link: 'https://www.cdkeys.com/',
 		},
 		{
 			id: '5', 
-			name: 'Twitch',
-			icon: 'twitch',
-			link: 'https://twitch.tv/',
+			name: 'Tumblr',
+			icon: 'scan-heart',
+			link: 'https://www.tumblr.com/',
 		},
 		{
 			id: '6',
-			name: 'HiAnime',
-			icon: 'tv-minimal',
-			link: 'https://hianime.to/',
+			name: 'Pinterest',
+			icon: 'image',
+			link: 'https://www.pinterest.com/',
 		},
 	],
 
@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'hash',
+			icon: 'sparkles',
 			id: '2',
 			links: [
 				{
-					name: 'Bluesky',
-					link: 'https://bsky.app',
+					name: 'Prydwen',
+					link: 'https://www.prydwen.gg',
 				},
 				{
-					name: 'Fur Affinity',
-					link: 'https://www.furaffinity.net',
+					name: 'Tethys.gg',
+					link: 'https://tethys.gg',
 				},
 				{
-					name: 'Itaku',
-					link: 'https://www.itaku.ee',
+					name: 'WuWa Tracker',
+					link: 'https://wuwatracker.com',
 				},
 				{
-					name: 'TikTok',
-					link: 'https://www.tiktok.com',
+					name: 'ZZZ Toolbox',
+					link: 'https://zzz.rng.moe',
 				},
 			],
 		},
