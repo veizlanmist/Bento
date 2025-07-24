@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Le Chat - Mistral AI',
-			icon: 'brain-circuit',
-			link: 'https://chat.mistral.ai/chat',
+			name: 'typing.works',
+			icon: 'whole-word',
+			link: 'https://typing.works',
 		},
 		{
 			id: '4',
